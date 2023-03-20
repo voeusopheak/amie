@@ -1,2 +1,0 @@
-# amie
-newbie python
